@@ -1,0 +1,151 @@
+
+/* iPhone5/SE - landscape */
+@media only screen and (min-width: 560px) and (max-width: 570px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 264px !important;
+    }
+}
+
+
+/* Iphone5/SE - portriat */
+@media only screen and (min-width: 320px) and (max-width: 320px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 211px;
+    }
+}
+
+/* Galaxy S5 - landscape */
+@media only screen and (min-width:360px) and (max-width: 360px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 211px;
+    }
+}
+
+/* Galaxy S5 - portrait */
+@media only screen and (min-width: 635px) and (max-width: 645px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 300px;
+    }
+}
+
+
+/* pixel 2 landscape */
+@media only screen and (min-width: 725px) and (max-width: 735px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 330px;
+    }
+}
+
+/* Pixel 2xl - portrait  */
+@media only screen and (min-width: 410px) and (max-width: 412px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 228px !important;
+    }
+}
+
+/* Iphone 6/7/8 - landscape */
+@media only screen and (min-width: 660px) and (max-width: 675px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 298px;
+    }
+}
+
+/* Iphone 6/7/8 - portrait */
+@media only screen and (min-width: 374px) and (max-width: 376px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 200px !important;
+    }
+}
+
+
+
+/* Iphone 6/7/8 - landscape */
+@media only screen and (min-width: 665px) and (max-width: 668px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 300px;
+    }
+}
+
+
+/* Iphone 6/7/8 plus - portrait */
+@media only screen and (min-width: 414px) and (max-width: 415px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 220px;
+    }
+}
+
+
+/* Iphone 6/7/8 Plus - landscaoe */
+@media only screen and (min-width: 735px) and (max-width: 740px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 330px;
+    }
+}
+
+/* iphone X landscape */
+@media only screen and (min-width: 812px) and (max-width: 820px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 324px;
+    }
+}
+
+
+/* Iphone X - Portrait */
+@media only screen and (min-width: 375px) and (max-width: 380px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 200px;
+    }
+}
+
+
+/* Ipad - portrait */
+@media only screen and (min-width: 768px) and (max-width: 770px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 330px;
+    }
+}
+
+
+/* pixel landscape */
+@media only screen and (min-width: 820px) and (max-width: 830px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 330px;
+    }
+}
+
+/* ipad landscape */
+@media only screen and (width: 1024px) and (height: 768px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 510px !important;
+    }
+}
+
+/* ipad portrait */
+@media only screen and (width: 768px) and (height: 1024px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 360px !important;
+    }
+}
+
+/* IpadPro landscape */
+@media only screen and (width: 1366px) and (height: 1024px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 570px !important;
+    }
+}
+
+
+
+/*  Responsive - landscape */
+@media only screen and (min-width: 1024px) and (max-width: 1024px){
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 450px;
+    }
+}
+
+/* macbook air 11inch */
+@media only screen and (min-width: 767px) and (max-width:790px) {
+    .quiz-description iframe, .lesson-description iframe {
+        max-height: 440px;
+    }
+}
